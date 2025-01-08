@@ -1,0 +1,10 @@
+[console_scripts]
+abc = record.abc:main
+camera_preview_elp = record.camera_preview_elp:main
+camera_preview_realD435i = record.camera_preview_realD435i:main
+camera_preview_realD515 = record.camera_preview_realD515:main
+fer2 = record.fer2:main
+fer_preview_elp = record.fer_preview_elp:main
+record_video = record.record_video:main
+rgb_preview_multi_camera = record.rgb_preview_multi_camera:main
+
